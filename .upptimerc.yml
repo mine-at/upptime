@@ -3,7 +3,7 @@ owner: mine-at # Your GitHub organization or username, where this repository liv
 repo: upptime # The name of this repository
 
 sites:
-  - name: maxhash.io Stratum
+  - name: Mining Stratum
     url: maxhash.io
     port: 3333
     check: "tcp-ping"
@@ -15,9 +15,11 @@ status-website:
   #baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: maxhash.io
-  introTitle: "Status page for maxhash.io"
-  introMessage: Monitor service status and view service statistic.
+  introTitle: "Global status page for maxhash.io"
+  introMessage: Monitor service status and view service statistics.
   navbar:
+    - title: Home
+      href: https://maxhash.io
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
