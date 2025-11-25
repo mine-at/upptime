@@ -1,7 +1,7 @@
 [
   {
     "name": "Mining Stratum",
-    "url": "maxhash.io",
+    "url": "solo.maxhash.io",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mining-stratum",
     "status": "up",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2,
-    "timeDay": 2,
-    "timeWeek": 2,
-    "timeMonth": 2,
-    "timeYear": 2,
+    "time": 18,
+    "timeDay": 18,
+    "timeWeek": 18,
+    "timeMonth": 18,
+    "timeYear": 18,
     "dailyMinutesDown": {}
   }
 ]
