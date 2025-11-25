@@ -4,7 +4,7 @@ repo: upptime # The name of this repository
 
 sites:
   - name: Mining Stratum
-    url: maxhash.io
+    url: solo.maxhash.io
     port: 3333
     check: "tcp-ping"
 
