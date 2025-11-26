@@ -17,8 +17,8 @@ status-website:
   #baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: maxhash.io
-  introTitle: "Global status page for maxhash.io mining pool"
-  introMessage: Monitor service status and statistics.
+  introTitle: "Global status for maxhash.io"
+  introMessage: Monitor mining pool service status and statistics.
   navbar:
     - title: Home
       href: https://maxhash.io
