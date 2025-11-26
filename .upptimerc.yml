@@ -8,7 +8,7 @@ sites:
     port: 3333
     check: "tcp-ping"
   - name: Dashboard
-    url: https://maxhash.io
+    url: https://maxhash.io/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -17,8 +17,8 @@ status-website:
   #baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: maxhash.io
-  introTitle: "Global status page for maxhash.io"
-  introMessage: Monitor service status and view service statistics.
+  introTitle: "Global status page for maxhash.io mining pool"
+  introMessage: Monitor service status and statistics.
   navbar:
     - title: Home
       href: https://maxhash.io
