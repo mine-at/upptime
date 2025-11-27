@@ -2,6 +2,9 @@
 owner: mine-at # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
+assignees:
+  - mine-at
+
 sites:
   - name: Mining Stratum
     url: solo.maxhash.io
