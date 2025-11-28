@@ -6,6 +6,8 @@ assignees:
   - mine-at
 
 sites:
+    - name: Placeholder
+      url: https://github.com/
 #   - name: Mining Stratum
 #     url: solo.maxhash.io
 #     port: 3333
