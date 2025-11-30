@@ -6,14 +6,12 @@ assignees:
   - mine-at
 
 sites:
-    - name: Placeholder
-      url: https://github.com/
-#   - name: Mining Stratum
-#     url: solo.maxhash.io
-#     port: 3333
-#     check: "tcp-ping"
-#   - name: Dashboard
-#     url: https://maxhash.io/
+    - name: Mining Stratum
+      url: solo.maxhash.io
+      port: 3333
+      check: "tcp-ping"
+    - name: Dashboard
+      url: https://maxhash.io/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
