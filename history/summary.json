@@ -22,7 +22,7 @@
     "url": "https://maxhash.io/",
     "icon": "https://icons.duckduckgo.com/ip3/maxhash.io.ico",
     "slug": "dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,6 +33,8 @@
     "timeWeek": 2710,
     "timeMonth": 1775,
     "timeYear": 1430,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-06": 0
+    }
   }
 ]
