@@ -22,17 +22,19 @@
     "url": "https://maxhash.io/",
     "icon": "https://icons.duckduckgo.com/ip3/maxhash.io.ico",
     "slug": "dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1524,
-    "timeDay": 243,
-    "timeWeek": 1539,
-    "timeMonth": 1769,
-    "timeYear": 1524,
-    "dailyMinutesDown": {}
+    "time": 1509,
+    "timeDay": 349,
+    "timeWeek": 1404,
+    "timeMonth": 1729,
+    "timeYear": 1509,
+    "dailyMinutesDown": {
+      "2026-02-01": 0
+    }
   }
 ]
