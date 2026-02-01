@@ -1,7 +1,7 @@
 url: https://maxhash.io/
-status: up
-code: 200
-responseTime: 243
-lastUpdated: 2026-01-31T23:14:11.912Z
+status: down
+code: 429
+responseTime: 455
+lastUpdated: 2026-02-01T20:14:25.814Z
 startTime: 2025-11-30T16:58:58.811Z
 generator: Upptime <https://github.com/upptime/upptime>
